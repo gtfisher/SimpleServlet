@@ -1,6 +1,8 @@
-# SimpleServlet
+## Simple Servlet ##
 
-his project is a Simple Servlet set up as a starter for a servlet project
+This project is a Simple Servlet set up as a starter for a servlet project
 It includes log4j, initialised by a servlet content listener
 
-a simple servlet start project for servlet 3.0 jstl 1.2 and log4j
+this is a maven project that can be built into a war with mvn clean install
+
+It includes the core jstl 1.2 tag files 
